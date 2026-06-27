@@ -27,42 +27,6 @@
 
 ---
 
-##  Telegram Channels
-
-| Channel | Specialty |
-|---------|-----------|
-| Programming Arabic | Daily tips and resources |
-| C# Arabic Community | C# and .NET discussions |
-| Dev Arabic | General programming news |
-
----
-
-##  Free Books in Arabic
-
-| Book | Description |
-|------|-------------|
-| Introduction to Programming | Basics for absolute beginners |
-| OOP in Arabic | Object-Oriented Programming explained |
-| Data Structures Arabic | DSA with examples |
-
----
-
-##  Suggested Learning Path
-```
-Step 1 — Programming Basics (any language)
-        ↓
-Step 2 — Object-Oriented Programming
-        ↓
-Step 3 — Data Structures & Algorithms
-        ↓
-Step 4 — Pick your track (Web / Mobile / Desktop / AI)
-        ↓
-Step 5 — Build projects and publish on GitHub 
-```
-
----
-
----
 
 <div align="center">
 
