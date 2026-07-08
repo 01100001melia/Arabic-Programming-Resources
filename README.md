@@ -8,9 +8,9 @@
 
 | Channel | Specialty | Link |
 |---------|-----------|------|
-| Elzero Web School | Web Development | [YouTube](https://www.youtube.com/@ElzeroWebSchool) |
-| Codezilla | Python • Algorithms | [YouTube](https://www.youtube.com/@Codezilla) |
-|Programming Advices | C# • OOP • Clean Code | [YouTube](https://www.youtube.com/@programmingadvices) |
+| Elzero Web School | [YouTube](https://www.youtube.com/@ElzeroWebSchool) |
+| Codezilla | [YouTube](https://www.youtube.com/@Codezilla) |
+|Programming Advices | [YouTube](https://www.youtube.com/@programmingadvices) |
 
 ---
 
